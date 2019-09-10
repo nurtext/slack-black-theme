@@ -1,6 +1,5 @@
 body {
-    text-rendering: optimizeLegibility important;
-    word-spacing: -1px;
+    text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: auto;
 }
 .p-context_bar {
